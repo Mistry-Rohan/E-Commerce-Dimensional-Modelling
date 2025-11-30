@@ -62,6 +62,3 @@ Customer feedback analysis shows a strong upward trend in satisfaction—rising 
 
 ## Data Model and Dashboards
 ![Full Data Model](Dashboard-Snapshots/Screenshot 2025-11-30 153739.png)
-![Orders Dashboard](Dashboard-Snapshots/Screenshot 2025-11-30 153906.png)
-![Sales Dashboard](Dashboard-Snapshots/Screenshot 2025-11-30 153945.png)
-![Reviews Dashboard](Dashboard-Snapshots/Screenshot 2025-11-30 154014.png)
