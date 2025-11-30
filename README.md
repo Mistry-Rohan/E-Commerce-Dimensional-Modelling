@@ -26,3 +26,37 @@ This project used a structured workflow to convert raw e-commerce data into mean
 **Measure Creation**: Developed advanced DAX measures to compute essential KPIs, basket analysis indicators, and year-over-year comparison metrics.
 
 **Dashboard & Visualization Development**: Followed visualization best practices to design clear, user-friendly dashboards. Selected appropriate chart types and applied strong visual structure to ensure insights are easy to interpret.
+
+## Tools and Technologies
+
+**Power BI Desktop**:  Data modeling and visualization
+
+**DAX**: Measures and calculations
+
+**Power Query (M Language)**: Data cleaning and transformations
+
+## Data Modeling in Power BI
+
+The data model was developed in Microsoft Power BI, focusing on clean schema design, optimized relationships, and analytical flexibility.
+
+**Data Modeling Highlights**
+
+- Used consistent naming conventions for surrogate keys (e.g., SK_OrderID, SK_CustomerID).
+
+- Designed a centralized Calendar Table, enabling accurate date-driven analysis across all facts.
+
+- Built optimized Star Schema structures separating Fact and Dimension tables.
+
+- Ensured model efficiency through:
+
+  - proper column data types
+
+  - reduction of cardinality
+
+  - removal of unused columns
+
+  - performance-oriented DAX calculations
+
+## Observations
+
+
