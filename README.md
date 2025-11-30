@@ -61,4 +61,4 @@ The data model was developed in Microsoft Power BI, focusing on clean schema des
 Customer feedback analysis shows a strong upward trend in satisfaction—rising from 193 positive reviews in 2016 to over 43K in 2018—highlighting effective service improvements, high engagement in key product categories, and clear opportunities to further refine customer experience strategies amid a slight dip in 5-star ratings.
 
 ## Data Model and Dashboards
-![Full Data Model](Dashboard%20Snapshots/Screenshot%202025-11-30 153739.png)
+![Full Data Model](Dashboard%20Snapshots/Screenshot%202025-11-30%20153739.png)
