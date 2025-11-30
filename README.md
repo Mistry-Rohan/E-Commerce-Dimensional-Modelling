@@ -59,3 +59,9 @@ The data model was developed in Microsoft Power BI, focusing on clean schema des
 3. Invoice analysis reveals $13.66M in revenue from 113K products over two years, with strong seasonal demand peaking in Q2, top sales concentrated in Sao Paulo and Rio de Janeiro, and consistently high-performing categories like sports, watches, and telephony—providing clear guidance for inventory planning, targeted promotions, and optimized fulfillment.
 4. Despite strong sales in key categories, high exchange and return rates—especially in sports leisure, watches, and telephony—reveal significant post-purchase dissatisfaction, underscoring the need for improved product clarity, targeted customer feedback, and refined post-sales strategies to strengthen overall customer experience.
 Customer feedback analysis shows a strong upward trend in satisfaction—rising from 193 positive reviews in 2016 to over 43K in 2018—highlighting effective service improvements, high engagement in key product categories, and clear opportunities to further refine customer experience strategies amid a slight dip in 5-star ratings.
+
+## Data Model and Dashboards
+![Full Data Model](Dashboard Snapshots/Screenshot 2025-11-30 153739.png)
+![Orders Dashboard](Dashboard Snapshots/Screenshot 2025-11-30 153906.png)
+![Sales Dashboard](Dashboard Snapshots/Screenshot 2025-11-30 153945.png)
+![Reviews Dashboard](Dashboard Snapshots/Screenshot 2025-11-30 154014.png)
