@@ -48,15 +48,14 @@ The data model was developed in Microsoft Power BI, focusing on clean schema des
 - Built optimized Star Schema structures separating Fact and Dimension tables.
 
 - Ensured model efficiency through:
-
   - proper column data types
-
   - reduction of cardinality
-
   - removal of unused columns
-
   - performance-oriented DAX calculations
 
-## Observations
-
-
+## Key Insights
+1. Order volume grew steadily to 99,441 orders over three years—with an average 20% annual increase, peak monthly sales in late Q4, consistently strong performance in São Paulo, and clear opportunities to boost year-round sales and geographic expansion through targeted marketing.
+2. While delivery rates and lead times improved over the years, the sharp rise in late deliveries and the fluctuations in cancelled or unavailable orders highlight significant operational gaps that risk customer satisfaction and require urgent, sustained process improvements.
+3. Invoice analysis reveals $13.66M in revenue from 113K products over two years, with strong seasonal demand peaking in Q2, top sales concentrated in Sao Paulo and Rio de Janeiro, and consistently high-performing categories like sports, watches, and telephony—providing clear guidance for inventory planning, targeted promotions, and optimized fulfillment.
+4. Despite strong sales in key categories, high exchange and return rates—especially in sports leisure, watches, and telephony—reveal significant post-purchase dissatisfaction, underscoring the need for improved product clarity, targeted customer feedback, and refined post-sales strategies to strengthen overall customer experience.
+Customer feedback analysis shows a strong upward trend in satisfaction—rising from 193 positive reviews in 2016 to over 43K in 2018—highlighting effective service improvements, high engagement in key product categories, and clear opportunities to further refine customer experience strategies amid a slight dip in 5-star ratings.
